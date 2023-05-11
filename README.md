@@ -1,1 +1,1 @@
-# Ineuron-dashboard-assignment-
+# iNeuron_assignments_Python
